@@ -1,0 +1,1 @@
+print('Thamgam adi nee enaku')
