@@ -1,1 +1,1 @@
-print('Thamgam adi nee enaku')
+print('Thamgam adi nee')
